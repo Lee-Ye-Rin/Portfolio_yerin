@@ -1,0 +1,46 @@
+*{margin: 0; padding: 0;}
+ul{list-style: none;
+position:fixed;
+bottom:50px;
+right:50px;
+text-align:center;
+}
+
+a{text-decoration: none; color: #000;}
+
+body{
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
+  background-color: #d4c7b4;
+}
+
+.con{
+  width: 80%;
+  margin: auto;
+}
+
+img{
+  width: 100%;
+  display: block;
+}
+
+ul li{
+  margin: 10px;
+}
+ul li a{
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.nobleniture_btn li a{
+  background: #543154;
+}
+.waves_btn li a{
+  background: #543154;
+}
+a{text-decoration:none; color:#fff;}
+img{width:100%;}
+
